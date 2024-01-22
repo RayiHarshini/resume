@@ -1,0 +1,70 @@
+
+.container{
+    display: inline-block;
+    width: 100%;
+    height:200px;
+    background-color: black;
+    color: white;
+}
+#container1{
+    background: linear-gradient(to right,lightblue 40%,lightgrey 60%);
+}
+#phone,#email,#address,#linkedin{
+    display: inline-block;
+
+}
+#tx1,#tx2{
+    text-align: center;
+}
+#tx1{
+    font-size: xx-large;
+}
+#hlast,#hfirst{
+    display: inline-block;
+}
+#hfirst{
+   padding-right: 35px;
+    width: 400px;
+    height: 50px;
+}
+#hsecond{
+    padding-right: 100px;
+    padding-top: 0px;
+    width: 400px;
+    height: 150px;
+    padding-top: 0px;
+}
+#hsecond,#hthird{
+    display: inline-block;
+}
+#hlast{
+    padding-right: 340px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    width: 400px;
+    height: 200px;
+}
+#hthird{
+    padding-left: 300px;
+    padding-top: 50px;
+    width: 400px;
+    height: 150px;
+}
+#hfirst,#hsecond,#hthird,#hlast,#hfourth,#hfifth{
+    display: inline-block;
+}
+#hfourth,#hfifth{
+    display:inline-block;
+    
+}
+#hfourth{
+    padding-right: 100px;
+    width: 400px;
+    height:200px;
+}
+#hfifth{
+    padding-left: 250px;
+    padding-top: 10px;
+    width: 400px;
+    height:250px;
+}
